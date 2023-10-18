@@ -13,6 +13,7 @@ public class Main {
         String yeniMesaj2 =sehirVer();
         int sayi = topla(5,7);//burada sayı işlemimizi topla fonksiyonumuza yaptırmıs olduk.
         System.out.println(sayi);
+        System.out.println(yeniMesaj2);
     }
     //Void operasyonlar emir kipleri gibidir yap,git,gel,eklee,sil,güncelle gibi
     //illada void olmak zorunda değildir bana eklediğin değeri geri verde voidi değiştireceğiz
